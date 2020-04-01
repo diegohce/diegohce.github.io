@@ -6,9 +6,20 @@
     <description>Recent content on About Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2020 06:53:04 -0300</lastBuildDate>
     
 	<atom:link href="https://diegohce.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://diegohce.github.io/about/</link>
+      <pubDate>Wed, 01 Apr 2020 06:53:04 -0300</pubDate>
+      
+      <guid>https://diegohce.github.io/about/</guid>
+      <description>Hace poco más de 20 años me hubiese gustado escribir algo importante acá, ahora sé que lo que yo creía que era importante no son más que nombres o roles o cosas.
+Puedo decir que soy, padre, amigo, hijo y programador; el resto son consecuencias de vivir.</description>
+    </item>
     
   </channel>
 </rss>
